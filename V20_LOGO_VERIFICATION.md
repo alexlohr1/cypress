@@ -1,0 +1,2 @@
+# V20 logo verification
+The V19 screenshot showed missing M-DCPS and Medical Academy images despite the referenced files existing. V20 converts the district SVG to a browser-compatible PNG, resizes the medical shield to a browser-friendly PNG, and embeds both images directly in the HTML to remove asset-path and file:// dependency. Decoding both embedded PNGs succeeded. All eight pages have zero missing local references. The user should visually retest their browser; visual rendering cannot be certified from file validation alone.

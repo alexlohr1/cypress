@@ -1,0 +1,29 @@
+CYPRESS K-8 V4 SOURCE AUDIT
+
+Original visible navigation preserved:
+Home
+Cypress Online Store
+Laptop Check out
+CK8 Media Center -> DESTINY; Request to Limit Access Form
+Medical Academy -> Application; Video; Information
+Academic Programs -> Special Education; Gifted; Advanced Academics
+About Us -> School Board Information; School Board Members; Making Lasting Impressions; South Region Office; YMCA; School Information; Faculty and Staff; PTSA; Dade Partners; Title 1
+Currently at Cypress -> Instagram; Facebook; Twitter/X
+Explore MDCPS
+
+Verified/public information included:
+School No. 1281; PK-8; 5400 SW 112th Court, Miami FL 33165; 305-271-1611
+Principal mailbox pr1281@dadeschools.net
+District Parent Hotline 305-995-2333
+Mission/vision / 3 Rs
+Current supplied administration names
+Opened 1957 (supplied school-site history image)
+Program flyer content for ESE, Gifted, Advanced Academics, Medical Academy
+M-DCPS dashboard programs/electives/clubs/sports/awards
+Parent/Student Handbook, SIP, Uniform Policy, Title I Annual Parent Meeting
+Social handles from school materials: Instagram cypresscougars; Facebook cypressk8center; X/Twitter Cypress_K8
+PTSA Givebacks link verified through Florida PTA.
+
+Important production note:
+The M-DCPS Angular schoolwebsite endpoint does not expose all dynamic destination URLs to static crawling.
+Where a direct current destination could not be independently verified (notably Medical Academy Application/Video, laptop checkout, and Request to Limit Access), V4 intentionally links to the official Cypress M-DCPS repository/original site instead of inventing a URL.

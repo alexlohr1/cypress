@@ -1,0 +1,1 @@
+Browser automation attempted with Chromium on file:// and local HTTP. Both were blocked by environment administrator policy (ERR_BLOCKED_BY_ADMINISTRATOR). Browser behavior not certified.

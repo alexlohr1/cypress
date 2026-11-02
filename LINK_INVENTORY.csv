@@ -1,0 +1,567 @@
+page,label,destination,static_status
+uniform-policy.html,Skip to main content,#main,local-ok
+uniform-policy.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+uniform-policy.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+uniform-policy.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+uniform-policy.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+uniform-policy.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+uniform-policy.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+uniform-policy.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+uniform-policy.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+uniform-policy.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+uniform-policy.html,About,index.html#about,local-ok
+uniform-policy.html,Academics,index.html#academics,local-ok
+uniform-policy.html,Medical Academy,medical-academy.html,local-ok
+uniform-policy.html,Families,index.html#families,local-ok
+uniform-policy.html,Resources,index.html#resources,local-ok
+uniform-policy.html,Call to Arrange a Tour,tel:3052711611,local-ok
+uniform-policy.html,Home,index.html,local-ok
+uniform-policy.html,About Cypress,index.html#about,local-ok
+uniform-policy.html,Academic Programs,index.html#academics,local-ok
+uniform-policy.html,Medical Academy,medical-academy.html,local-ok
+uniform-policy.html,Families,index.html#families,local-ok
+uniform-policy.html,Resources,index.html#resources,local-ok
+uniform-policy.html,Call Cypress,tel:3052711611,local-ok
+uniform-policy.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+uniform-policy.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+uniform-policy.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+uniform-policy.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+uniform-policy.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+uniform-policy.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+uniform-policy.html,Site Directory,site-directory.html,local-ok
+uniform-policy.html,Home,index.html,local-ok
+uniform-policy.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+uniform-policy.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+uniform-policy.html,CK8 Media Center,index.html#media,local-ok
+uniform-policy.html,Medical Academy,medical-academy.html,local-ok
+uniform-policy.html,Academic Programs,index.html#academics,local-ok
+uniform-policy.html,About Us,index.html#about,local-ok
+uniform-policy.html,Currently at Cypress,index.html#social,local-ok
+uniform-policy.html,Full Directory,site-directory.html,local-ok
+uniform-policy.html,Home,index.html,local-ok
+uniform-policy.html,Official Uniform Policy PDF,https://api.dadeschools.net/SMAv2/1281/Links/CYPRESS%20UNIFORM%20POLICY%20.pdf,external-needs-live-check
+uniform-policy.html,Uniform Visual Guide,https://api.dadeschools.net/SMAv2/1281/Links/Uniform%20Visual.pdf,external-needs-live-check
+uniform-policy.html,(305) 271-1611,tel:3052711611,local-ok
+uniform-policy.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+uniform-policy.html,Mission & Vision,index.html#about,local-ok
+uniform-policy.html,Administration,index.html#administration,local-ok
+uniform-policy.html,Our History,index.html#history,local-ok
+uniform-policy.html,Faculty & Staff,index.html#staff,local-ok
+uniform-policy.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+uniform-policy.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+uniform-policy.html,Special Education,special-education.html,local-ok
+uniform-policy.html,Gifted Program,gifted.html,local-ok
+uniform-policy.html,Advanced Academics,advanced-academics.html,local-ok
+uniform-policy.html,Medical Academy,medical-academy.html,local-ok
+uniform-policy.html,Clubs & Sports,index.html#activities,local-ok
+uniform-policy.html,Resources,index.html#resources,local-ok
+uniform-policy.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+uniform-policy.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+uniform-policy.html,Title I,index.html#title1,local-ok
+uniform-policy.html,Social Media,index.html#social,local-ok
+index.html,Skip to main content,#main,local-ok
+index.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+index.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+index.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+index.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+index.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+index.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+index.html,About,index.html#about,local-ok
+index.html,Academics,index.html#academics,local-ok
+index.html,Medical Academy,medical-academy.html,local-ok
+index.html,Families,index.html#families,local-ok
+index.html,Resources,index.html#resources,local-ok
+index.html,Call to Arrange a Tour,tel:3052711611,local-ok
+index.html,Home,index.html,local-ok
+index.html,About Cypress,index.html#about,local-ok
+index.html,Academic Programs,index.html#academics,local-ok
+index.html,Medical Academy,medical-academy.html,local-ok
+index.html,Families,index.html#families,local-ok
+index.html,Resources,index.html#resources,local-ok
+index.html,Call Cypress,tel:3052711611,local-ok
+index.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+index.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+index.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+index.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+index.html,Site Directory,site-directory.html,local-ok
+index.html,Home,index.html,local-ok
+index.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+index.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+index.html,CK8 Media Center,index.html#media,local-ok
+index.html,Medical Academy,medical-academy.html,local-ok
+index.html,Academic Programs,index.html#academics,local-ok
+index.html,About Us,index.html#about,local-ok
+index.html,Currently at Cypress,index.html#social,local-ok
+index.html,Full Directory,site-directory.html,local-ok
+index.html,Explore Programs,#academics,local-ok
+index.html,Medical Academy,medical-academy.html,local-ok
+index.html,Student Portal District applications & access,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Parent Portal Family access & information,https://www3.dadeschools.net/,external-needs-live-check
+index.html,School Documents Official M-DCPS repository,https://api.dadeschools.net/SMAv2/1281/Links/,external-needs-live-check
+index.html,"Family Resources Forms, policies & services",#resources,local-ok
+index.html,Contact Cypress (305) 271-1611,tel:3052711611,local-ok
+index.html,EXPLORE ESE →,special-education.html,local-ok
+index.html,EXPLORE GIFTED →,gifted.html,local-ok
+index.html,EXPLORE ADVANCED →,advanced-academics.html,local-ok
+index.html,EXPLORE MEDICAL →,medical-academy.html,local-ok
+index.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+index.html,(305) 271-1611,tel:3052711611,local-ok
+index.html,Principal,#administration,local-ok
+index.html,Assistant Principal,#administration,local-ok
+index.html,Elementary Teachers,faculty-staff.html,local-ok
+index.html,Middle Grades Teachers,faculty-staff.html,local-ok
+index.html,ESE & Gifted,faculty-staff.html,local-ok
+index.html,Special Areas,faculty-staff.html,local-ok
+index.html,Student Services,faculty-staff.html,local-ok
+index.html,Office & Operations,faculty-staff.html,local-ok
+index.html,Paraprofessionals,faculty-staff.html,local-ok
+index.html,Media Center Book Search — DESTINY,https://destiny.dadeschools.net/,external-needs-live-check
+index.html,Request to Limit Access Form,https://api.dadeschools.net/SMAv2/1281/Links/,external-needs-live-check
+index.html,Medical Academy Information,medical-academy.html,local-ok
+index.html,Medical Academy Application,medical-academy.html#apply,local-ok
+index.html,Medical Academy Video,medical-academy.html#video,local-ok
+index.html,Special Education Programs,special-education.html,local-ok
+index.html,Gifted Program,gifted.html,local-ok
+index.html,Advanced Academic Programs,advanced-academics.html,local-ok
+index.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+index.html,School Board Members,https://www.dadeschools.net/,external-needs-live-check
+index.html,Making Lasting Impressions,#history,local-ok
+index.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+index.html,YMCA,https://www.ymcasouthflorida.org/,external-needs-live-check
+index.html,School Information,#about,local-ok
+index.html,Faculty and Staff,faculty-staff.html,local-ok
+index.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+index.html,Dade Partners,https://www.engagemiamidade.net/,external-needs-live-check
+index.html,Title 1,#title1,local-ok
+index.html,Cypress Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+index.html,Laptop Check out,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+index.html,Explore MDCPS,https://www3.dadeschools.net/,external-needs-live-check
+index.html,Instagram Feed,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+index.html,Facebook Feed,https://www.facebook.com/cypressk8center/,external-needs-live-check
+index.html,X / Twitter Feed,https://x.com/cypress_k8,external-needs-live-check
+index.html,"M-DCPS Portal Student, parent & employee access",https://www3.dadeschools.net/,external-needs-live-check
+index.html,Parent / Student Handbook School and district information,https://api.dadeschools.net/SMAv2/1281/Links/District%20Parent%20Handbook%202024-2025%20cypress.pdf,external-needs-live-check
+index.html,"School Improvement Plan Goals, strategies and Title I information",https://api.dadeschools.net/WMSFiles/92/24_25SIPs/1281.pdf,external-needs-live-check
+index.html,Uniform Policy Elementary and middle school requirements,https://api.dadeschools.net/SMAv2/1281/Links/CYPRESS%20UNIFORM%20POLICY%20.pdf,external-needs-live-check
+index.html,Official Document Repository Cypress files hosted by M-DCPS,https://api.dadeschools.net/SMAv2/1281/Links/,external-needs-live-check
+index.html,PTSA Cypress K-8 Center PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+index.html,DESTINY Library catalog,https://destiny.dadeschools.net/,external-needs-live-check
+index.html,Uniform Policy Readable requirements + official PDFs,uniform-policy.html,local-ok
+index.html,Complete Site Directory All original destinations mapped,site-directory.html,local-ok
+index.html,Email the Principal's Office pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+index.html,Annual Parent Meeting Title I Schoolwide Program presentation,https://api.dadeschools.net/SMAv2/1281/Links/24-25%20Annual%20Parent%20Meeting%20power%20point%20.pdf,external-needs-live-check
+index.html,2024–25 SIP Schoolwide plan and Title I requirements,https://api.dadeschools.net/WMSFiles/92/24_25SIPs/1281.pdf,external-needs-live-check
+index.html,Title I Documents PFEP and additional school files,https://api.dadeschools.net/SMAv2/1281/Links/,external-needs-live-check
+index.html,(305) 271-1611,tel:3052711611,local-ok
+index.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+index.html,(305) 995-2333,tel:3059952333,local-ok
+index.html,Call (305) 271-1611,tel:3052711611,local-ok
+index.html,(305) 271-1611,tel:3052711611,local-ok
+index.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+index.html,Mission & Vision,index.html#about,local-ok
+index.html,Administration,index.html#administration,local-ok
+index.html,Our History,index.html#history,local-ok
+index.html,Faculty & Staff,index.html#staff,local-ok
+index.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+index.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+index.html,Special Education,special-education.html,local-ok
+index.html,Gifted Program,gifted.html,local-ok
+index.html,Advanced Academics,advanced-academics.html,local-ok
+index.html,Medical Academy,medical-academy.html,local-ok
+index.html,Clubs & Sports,index.html#activities,local-ok
+index.html,Resources,index.html#resources,local-ok
+index.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+index.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+index.html,Title I,index.html#title1,local-ok
+index.html,Social Media,index.html#social,local-ok
+gifted.html,Skip to main content,#main,local-ok
+gifted.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+gifted.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+gifted.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+gifted.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+gifted.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+gifted.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+gifted.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+gifted.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+gifted.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+gifted.html,About,index.html#about,local-ok
+gifted.html,Academics,index.html#academics,local-ok
+gifted.html,Medical Academy,medical-academy.html,local-ok
+gifted.html,Families,index.html#families,local-ok
+gifted.html,Resources,index.html#resources,local-ok
+gifted.html,Call to Arrange a Tour,tel:3052711611,local-ok
+gifted.html,Home,index.html,local-ok
+gifted.html,About Cypress,index.html#about,local-ok
+gifted.html,Academic Programs,index.html#academics,local-ok
+gifted.html,Medical Academy,medical-academy.html,local-ok
+gifted.html,Families,index.html#families,local-ok
+gifted.html,Resources,index.html#resources,local-ok
+gifted.html,Call Cypress,tel:3052711611,local-ok
+gifted.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+gifted.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+gifted.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+gifted.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+gifted.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+gifted.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+gifted.html,Site Directory,site-directory.html,local-ok
+gifted.html,Home,index.html,local-ok
+gifted.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+gifted.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+gifted.html,CK8 Media Center,index.html#media,local-ok
+gifted.html,Medical Academy,medical-academy.html,local-ok
+gifted.html,Academic Programs,index.html#academics,local-ok
+gifted.html,About Us,index.html#about,local-ok
+gifted.html,Currently at Cypress,index.html#social,local-ok
+gifted.html,Full Directory,site-directory.html,local-ok
+gifted.html,Home,index.html,local-ok
+gifted.html,Academic Programs,index.html#academics,local-ok
+gifted.html,(305) 271-1611,tel:3052711611,local-ok
+gifted.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+gifted.html,Mission & Vision,index.html#about,local-ok
+gifted.html,Administration,index.html#administration,local-ok
+gifted.html,Our History,index.html#history,local-ok
+gifted.html,Faculty & Staff,index.html#staff,local-ok
+gifted.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+gifted.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+gifted.html,Special Education,special-education.html,local-ok
+gifted.html,Gifted Program,gifted.html,local-ok
+gifted.html,Advanced Academics,advanced-academics.html,local-ok
+gifted.html,Medical Academy,medical-academy.html,local-ok
+gifted.html,Clubs & Sports,index.html#activities,local-ok
+gifted.html,Resources,index.html#resources,local-ok
+gifted.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+gifted.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+gifted.html,Title I,index.html#title1,local-ok
+gifted.html,Social Media,index.html#social,local-ok
+site-directory.html,Skip to main content,#main,local-ok
+site-directory.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+site-directory.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+site-directory.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+site-directory.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+site-directory.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+site-directory.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+site-directory.html,About,index.html#about,local-ok
+site-directory.html,Academics,index.html#academics,local-ok
+site-directory.html,Medical Academy,medical-academy.html,local-ok
+site-directory.html,Families,index.html#families,local-ok
+site-directory.html,Resources,index.html#resources,local-ok
+site-directory.html,Call to Arrange a Tour,tel:3052711611,local-ok
+site-directory.html,Home,index.html,local-ok
+site-directory.html,About Cypress,index.html#about,local-ok
+site-directory.html,Academic Programs,index.html#academics,local-ok
+site-directory.html,Medical Academy,medical-academy.html,local-ok
+site-directory.html,Families,index.html#families,local-ok
+site-directory.html,Resources,index.html#resources,local-ok
+site-directory.html,Call Cypress,tel:3052711611,local-ok
+site-directory.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+site-directory.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+site-directory.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+site-directory.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+site-directory.html,Site Directory,site-directory.html,local-ok
+site-directory.html,Home,index.html,local-ok
+site-directory.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+site-directory.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+site-directory.html,CK8 Media Center,index.html#media,local-ok
+site-directory.html,Medical Academy,medical-academy.html,local-ok
+site-directory.html,Academic Programs,index.html#academics,local-ok
+site-directory.html,About Us,index.html#about,local-ok
+site-directory.html,Currently at Cypress,index.html#social,local-ok
+site-directory.html,Full Directory,site-directory.html,local-ok
+site-directory.html,Home,index.html,local-ok
+site-directory.html,OPEN →,index.html,local-ok
+site-directory.html,OPEN →,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+site-directory.html,OPEN →,faculty-staff.html,local-ok
+site-directory.html,OPEN →,index.html#media,local-ok
+site-directory.html,OPEN →,https://destiny.dadeschools.net/,external-needs-live-check
+site-directory.html,OPEN →,https://api.dadeschools.net/SMAv2/1281/Links/,external-needs-live-check
+site-directory.html,OPEN →,medical-academy.html,local-ok
+site-directory.html,OPEN →,medical-academy.html#apply,local-ok
+site-directory.html,OPEN →,medical-academy.html#video,local-ok
+site-directory.html,OPEN →,special-education.html,local-ok
+site-directory.html,OPEN →,gifted.html,local-ok
+site-directory.html,OPEN →,advanced-academics.html,local-ok
+site-directory.html,OPEN →,https://www.dadeschools.net/,external-needs-live-check
+site-directory.html,OPEN →,https://www.dadeschools.net/,external-needs-live-check
+site-directory.html,OPEN →,index.html#history,local-ok
+site-directory.html,OPEN →,https://southregionoffice.dadeschools.net/,external-needs-live-check
+site-directory.html,OPEN →,https://ymcasouthflorida.org/youth-development/miami-dade/,external-needs-live-check
+site-directory.html,OPEN →,index.html#about,local-ok
+site-directory.html,OPEN →,faculty-staff.html,local-ok
+site-directory.html,OPEN →,https://cypressk8pta.givebacks.com/,external-needs-live-check
+site-directory.html,OPEN →,https://www.engagemiamidade.net/,external-needs-live-check
+site-directory.html,OPEN →,index.html#title1,local-ok
+site-directory.html,OPEN →,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+site-directory.html,OPEN →,https://www.facebook.com/cypressk8center/,external-needs-live-check
+site-directory.html,OPEN →,https://x.com/cypress_k8,external-needs-live-check
+site-directory.html,OPEN →,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,OPEN →,https://api.dadeschools.net/SMAv2/1281/Links/District%20Parent%20Handbook%202024-2025%20cypress.pdf,external-needs-live-check
+site-directory.html,OPEN →,https://api.dadeschools.net/WMSFiles/92/24_25SIPs/1281.pdf,external-needs-live-check
+site-directory.html,OPEN →,https://api.dadeschools.net/SMAv2/1281/Links/Cypress%20K-8%20Center%202023-2024%20Title%20I%20School-level%20PFEP%20Reviewed.pdf,external-needs-live-check
+site-directory.html,OPEN →,https://api.dadeschools.net/SMAv2/1281/Links/24-25%20Annual%20Parent%20Meeting%20power%20point%20.pdf,external-needs-live-check
+site-directory.html,OPEN →,uniform-policy.html,local-ok
+site-directory.html,(305) 271-1611,tel:3052711611,local-ok
+site-directory.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+site-directory.html,Mission & Vision,index.html#about,local-ok
+site-directory.html,Administration,index.html#administration,local-ok
+site-directory.html,Our History,index.html#history,local-ok
+site-directory.html,Faculty & Staff,index.html#staff,local-ok
+site-directory.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+site-directory.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+site-directory.html,Special Education,special-education.html,local-ok
+site-directory.html,Gifted Program,gifted.html,local-ok
+site-directory.html,Advanced Academics,advanced-academics.html,local-ok
+site-directory.html,Medical Academy,medical-academy.html,local-ok
+site-directory.html,Clubs & Sports,index.html#activities,local-ok
+site-directory.html,Resources,index.html#resources,local-ok
+site-directory.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+site-directory.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+site-directory.html,Title I,index.html#title1,local-ok
+site-directory.html,Social Media,index.html#social,local-ok
+advanced-academics.html,Skip to main content,#main,local-ok
+advanced-academics.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+advanced-academics.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+advanced-academics.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+advanced-academics.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+advanced-academics.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+advanced-academics.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+advanced-academics.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+advanced-academics.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+advanced-academics.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+advanced-academics.html,About,index.html#about,local-ok
+advanced-academics.html,Academics,index.html#academics,local-ok
+advanced-academics.html,Medical Academy,medical-academy.html,local-ok
+advanced-academics.html,Families,index.html#families,local-ok
+advanced-academics.html,Resources,index.html#resources,local-ok
+advanced-academics.html,Call to Arrange a Tour,tel:3052711611,local-ok
+advanced-academics.html,Home,index.html,local-ok
+advanced-academics.html,About Cypress,index.html#about,local-ok
+advanced-academics.html,Academic Programs,index.html#academics,local-ok
+advanced-academics.html,Medical Academy,medical-academy.html,local-ok
+advanced-academics.html,Families,index.html#families,local-ok
+advanced-academics.html,Resources,index.html#resources,local-ok
+advanced-academics.html,Call Cypress,tel:3052711611,local-ok
+advanced-academics.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+advanced-academics.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+advanced-academics.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+advanced-academics.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+advanced-academics.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+advanced-academics.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+advanced-academics.html,Site Directory,site-directory.html,local-ok
+advanced-academics.html,Home,index.html,local-ok
+advanced-academics.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+advanced-academics.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+advanced-academics.html,CK8 Media Center,index.html#media,local-ok
+advanced-academics.html,Medical Academy,medical-academy.html,local-ok
+advanced-academics.html,Academic Programs,index.html#academics,local-ok
+advanced-academics.html,About Us,index.html#about,local-ok
+advanced-academics.html,Currently at Cypress,index.html#social,local-ok
+advanced-academics.html,Full Directory,site-directory.html,local-ok
+advanced-academics.html,Home,index.html,local-ok
+advanced-academics.html,Academic Programs,index.html#academics,local-ok
+advanced-academics.html,(305) 271-1611,tel:3052711611,local-ok
+advanced-academics.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+advanced-academics.html,Mission & Vision,index.html#about,local-ok
+advanced-academics.html,Administration,index.html#administration,local-ok
+advanced-academics.html,Our History,index.html#history,local-ok
+advanced-academics.html,Faculty & Staff,index.html#staff,local-ok
+advanced-academics.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+advanced-academics.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+advanced-academics.html,Special Education,special-education.html,local-ok
+advanced-academics.html,Gifted Program,gifted.html,local-ok
+advanced-academics.html,Advanced Academics,advanced-academics.html,local-ok
+advanced-academics.html,Medical Academy,medical-academy.html,local-ok
+advanced-academics.html,Clubs & Sports,index.html#activities,local-ok
+advanced-academics.html,Resources,index.html#resources,local-ok
+advanced-academics.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+advanced-academics.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+advanced-academics.html,Title I,index.html#title1,local-ok
+advanced-academics.html,Social Media,index.html#social,local-ok
+medical-academy.html,Skip to main content,#main,local-ok
+medical-academy.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+medical-academy.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+medical-academy.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+medical-academy.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+medical-academy.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+medical-academy.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+medical-academy.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+medical-academy.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+medical-academy.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+medical-academy.html,About,index.html#about,local-ok
+medical-academy.html,Academics,index.html#academics,local-ok
+medical-academy.html,Medical Academy,medical-academy.html,local-ok
+medical-academy.html,Families,index.html#families,local-ok
+medical-academy.html,Resources,index.html#resources,local-ok
+medical-academy.html,Call to Arrange a Tour,tel:3052711611,local-ok
+medical-academy.html,Home,index.html,local-ok
+medical-academy.html,About Cypress,index.html#about,local-ok
+medical-academy.html,Academic Programs,index.html#academics,local-ok
+medical-academy.html,Medical Academy,medical-academy.html,local-ok
+medical-academy.html,Families,index.html#families,local-ok
+medical-academy.html,Resources,index.html#resources,local-ok
+medical-academy.html,Call Cypress,tel:3052711611,local-ok
+medical-academy.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+medical-academy.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+medical-academy.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+medical-academy.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+medical-academy.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+medical-academy.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+medical-academy.html,Site Directory,site-directory.html,local-ok
+medical-academy.html,Home,index.html,local-ok
+medical-academy.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+medical-academy.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+medical-academy.html,CK8 Media Center,index.html#media,local-ok
+medical-academy.html,Medical Academy,medical-academy.html,local-ok
+medical-academy.html,Academic Programs,index.html#academics,local-ok
+medical-academy.html,About Us,index.html#about,local-ok
+medical-academy.html,Currently at Cypress,index.html#social,local-ok
+medical-academy.html,Full Directory,site-directory.html,local-ok
+medical-academy.html,Home,index.html,local-ok
+medical-academy.html,Academic Programs,index.html#academics,local-ok
+medical-academy.html,Call (305) 271-1611 for a Tour,tel:3052711611,local-ok
+medical-academy.html,Find Application,https://api.dadeschools.net/SMAv2/1281/Links/,external-needs-live-check
+medical-academy.html,Medical Academy Video,https://api.dadeschools.net/schoolwebsite/#!/?schoolId=1281,external-needs-live-check
+medical-academy.html,(305) 271-1611,tel:3052711611,local-ok
+medical-academy.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+medical-academy.html,Mission & Vision,index.html#about,local-ok
+medical-academy.html,Administration,index.html#administration,local-ok
+medical-academy.html,Our History,index.html#history,local-ok
+medical-academy.html,Faculty & Staff,index.html#staff,local-ok
+medical-academy.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+medical-academy.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+medical-academy.html,Special Education,special-education.html,local-ok
+medical-academy.html,Gifted Program,gifted.html,local-ok
+medical-academy.html,Advanced Academics,advanced-academics.html,local-ok
+medical-academy.html,Medical Academy,medical-academy.html,local-ok
+medical-academy.html,Clubs & Sports,index.html#activities,local-ok
+medical-academy.html,Resources,index.html#resources,local-ok
+medical-academy.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+medical-academy.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+medical-academy.html,Title I,index.html#title1,local-ok
+medical-academy.html,Social Media,index.html#social,local-ok
+special-education.html,Skip to main content,#main,local-ok
+special-education.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+special-education.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+special-education.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+special-education.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+special-education.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+special-education.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+special-education.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+special-education.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+special-education.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+special-education.html,About,index.html#about,local-ok
+special-education.html,Academics,index.html#academics,local-ok
+special-education.html,Medical Academy,medical-academy.html,local-ok
+special-education.html,Families,index.html#families,local-ok
+special-education.html,Resources,index.html#resources,local-ok
+special-education.html,Call to Arrange a Tour,tel:3052711611,local-ok
+special-education.html,Home,index.html,local-ok
+special-education.html,About Cypress,index.html#about,local-ok
+special-education.html,Academic Programs,index.html#academics,local-ok
+special-education.html,Medical Academy,medical-academy.html,local-ok
+special-education.html,Families,index.html#families,local-ok
+special-education.html,Resources,index.html#resources,local-ok
+special-education.html,Call Cypress,tel:3052711611,local-ok
+special-education.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+special-education.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+special-education.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+special-education.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+special-education.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+special-education.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+special-education.html,Site Directory,site-directory.html,local-ok
+special-education.html,Home,index.html,local-ok
+special-education.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+special-education.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+special-education.html,CK8 Media Center,index.html#media,local-ok
+special-education.html,Medical Academy,medical-academy.html,local-ok
+special-education.html,Academic Programs,index.html#academics,local-ok
+special-education.html,About Us,index.html#about,local-ok
+special-education.html,Currently at Cypress,index.html#social,local-ok
+special-education.html,Full Directory,site-directory.html,local-ok
+special-education.html,Home,index.html,local-ok
+special-education.html,Academic Programs,index.html#academics,local-ok
+special-education.html,(305) 271-1611,tel:3052711611,local-ok
+special-education.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+special-education.html,Mission & Vision,index.html#about,local-ok
+special-education.html,Administration,index.html#administration,local-ok
+special-education.html,Our History,index.html#history,local-ok
+special-education.html,Faculty & Staff,index.html#staff,local-ok
+special-education.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+special-education.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+special-education.html,Special Education,special-education.html,local-ok
+special-education.html,Gifted Program,gifted.html,local-ok
+special-education.html,Advanced Academics,advanced-academics.html,local-ok
+special-education.html,Medical Academy,medical-academy.html,local-ok
+special-education.html,Clubs & Sports,index.html#activities,local-ok
+special-education.html,Resources,index.html#resources,local-ok
+special-education.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+special-education.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+special-education.html,Title I,index.html#title1,local-ok
+special-education.html,Social Media,index.html#social,local-ok
+faculty-staff.html,Skip to main content,#main,local-ok
+faculty-staff.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+faculty-staff.html,Explore M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+faculty-staff.html,Email Cypress,mailto:pr1281@dadeschools.net,local-ok
+faculty-staff.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+faculty-staff.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+faculty-staff.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+faculty-staff.html,Instagram,https://www.instagram.com/cypressk8_ptsa_,external-needs-live-check
+faculty-staff.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+faculty-staff.html,Cypress K-8 Center School No. 1281 • PK–8,index.html,local-ok
+faculty-staff.html,About,index.html#about,local-ok
+faculty-staff.html,Academics,index.html#academics,local-ok
+faculty-staff.html,Medical Academy,medical-academy.html,local-ok
+faculty-staff.html,Families,index.html#families,local-ok
+faculty-staff.html,Resources,index.html#resources,local-ok
+faculty-staff.html,Call to Arrange a Tour,tel:3052711611,local-ok
+faculty-staff.html,Home,index.html,local-ok
+faculty-staff.html,About Cypress,index.html#about,local-ok
+faculty-staff.html,Academic Programs,index.html#academics,local-ok
+faculty-staff.html,Medical Academy,medical-academy.html,local-ok
+faculty-staff.html,Families,index.html#families,local-ok
+faculty-staff.html,Resources,index.html#resources,local-ok
+faculty-staff.html,Call Cypress,tel:3052711611,local-ok
+faculty-staff.html,Portal Login,https://www3.dadeschools.net/,external-needs-live-check
+faculty-staff.html,Search M-DCPS,https://www3.dadeschools.net/,external-needs-live-check
+faculty-staff.html,Facebook,https://www.facebook.com/cypressk8center/,external-needs-live-check
+faculty-staff.html,Instagram,https://www.instagram.com/cypressk8_ptsa_/,external-needs-live-check
+faculty-staff.html,X / Twitter,https://x.com/cypress_k8,external-needs-live-check
+faculty-staff.html,YouTube,https://www.youtube.com/results?search_query=Cypress+K8+Center,external-needs-live-check
+faculty-staff.html,Site Directory,site-directory.html,local-ok
+faculty-staff.html,Home,index.html,local-ok
+faculty-staff.html,Online Store,https://osp.osmsinc.com/MiamiDadeFL/,external-needs-live-check
+faculty-staff.html,Laptop Checkout,https://innovationschoolchoice.com/instructional-technology/instructional-mobile-devices/devices/,external-needs-live-check
+faculty-staff.html,CK8 Media Center,index.html#media,local-ok
+faculty-staff.html,Medical Academy,medical-academy.html,local-ok
+faculty-staff.html,Academic Programs,index.html#academics,local-ok
+faculty-staff.html,About Us,index.html#about,local-ok
+faculty-staff.html,Currently at Cypress,index.html#social,local-ok
+faculty-staff.html,Full Directory,site-directory.html,local-ok
+faculty-staff.html,Home,index.html,local-ok
+faculty-staff.html,(305) 271-1611,tel:3052711611,local-ok
+faculty-staff.html,pr1281@dadeschools.net,mailto:pr1281@dadeschools.net,local-ok
+faculty-staff.html,Mission & Vision,index.html#about,local-ok
+faculty-staff.html,Administration,index.html#administration,local-ok
+faculty-staff.html,Our History,index.html#history,local-ok
+faculty-staff.html,Faculty & Staff,index.html#staff,local-ok
+faculty-staff.html,School Board Information,https://www.dadeschools.net/,external-needs-live-check
+faculty-staff.html,South Region Office,https://southregionoffice.dadeschools.net/,external-needs-live-check
+faculty-staff.html,Special Education,special-education.html,local-ok
+faculty-staff.html,Gifted Program,gifted.html,local-ok
+faculty-staff.html,Advanced Academics,advanced-academics.html,local-ok
+faculty-staff.html,Medical Academy,medical-academy.html,local-ok
+faculty-staff.html,Clubs & Sports,index.html#activities,local-ok
+faculty-staff.html,Resources,index.html#resources,local-ok
+faculty-staff.html,M-DCPS Portal,https://www3.dadeschools.net/,external-needs-live-check
+faculty-staff.html,PTSA,https://cypressk8pta.givebacks.com/,external-needs-live-check
+faculty-staff.html,Title I,index.html#title1,local-ok
+faculty-staff.html,Social Media,index.html#social,local-ok

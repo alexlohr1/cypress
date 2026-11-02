@@ -1,0 +1,2 @@
+# V18 responsive banner
+The former flat banner has been replaced by an HTML/CSS grid with independently positioned emblem crops and selectable, translatable text. No large raster background is used. Layout reflows at 850px, 540px and 370px. The emblem crops come from the existing school banner, not from invented artwork. Exact vector originals are recommended to replace crops for maximum sharpness. Manual cross-browser visual testing remains outstanding.
